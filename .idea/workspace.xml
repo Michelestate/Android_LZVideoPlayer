@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e04470a9-6d1f-4110-8005-ae9682bfa933" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ListVideoPlayer/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListVideoPlayer/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListVideoPlayer/app/src/main/java/com/kince/listvideo/FullFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListVideoPlayer/app/src/main/java/com/kince/listvideo/SplashActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListVideoPlayer/app/src/main/res/layout/splash_layout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListVideoPlayer/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ListVideoPlayer/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListVideoPlayer/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ListVideoPlayer/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListVideoPlayer/app/src/main/java/com/kince/listvideo/RecyclerViewVideoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/ListVideoPlayer/app/src/main/java/com/kince/listvideo/RecyclerViewVideoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListVideoPlayer/app/src/main/java/com/kince/listvideo/TabAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/ListVideoPlayer/app/src/main/java/com/kince/listvideo/TabAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListVideoPlayer/app/src/main/java/com/kince/listvideo/VideoAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/ListVideoPlayer/app/src/main/java/com/kince/listvideo/VideoAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListVideoPlayer/app/src/main/java/com/kince/listvideo/VideoBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/ListVideoPlayer/app/src/main/java/com/kince/listvideo/VideoBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListVideoPlayer/app/src/main/java/com/kince/listvideo/VideoData.java" beforeDir="false" afterPath="$PROJECT_DIR$/ListVideoPlayer/app/src/main/java/com/kince/listvideo/VideoData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListVideoPlayer/app/src/main/java/com/kince/listvideo/VideoFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/ListVideoPlayer/app/src/main/java/com/kince/listvideo/VideoFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListVideoPlayer/app/src/main/java/com/kince/listvideo/ViewPagerFragmentActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/ListVideoPlayer/app/src/main/java/com/kince/listvideo/ViewPagerFragmentActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListVideoPlayer/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ListVideoPlayer/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListVideoPlayer/app/src/main/res/layout/video_item_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ListVideoPlayer/app/src/main/res/layout/video_item_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListVideoPlayer/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ListVideoPlayer/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListVideoPlayer/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ListVideoPlayer/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListVideoPlayer/app/src/main/res/values/string-arrays.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ListVideoPlayer/app/src/main/res/values/string-arrays.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListVideoPlayer/listvideoplayer/src/main/java/com/kince/listvideo/player/view/AbsVideoPlayerView.java" beforeDir="false" afterPath="$PROJECT_DIR$/ListVideoPlayer/listvideoplayer/src/main/java/com/kince/listvideo/player/view/AbsVideoPlayerView.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ListVideoPlayer" />
+  </component>
+  <component name="ProjectId" id="1cgKHzho58oyIGMuszJdcMBklMa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ListVideoPlayer" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e04470a9-6d1f-4110-8005-ae9682bfa933" name="Default Changelist" comment="" />
+      <created>1590944714672</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590944714672</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590944916715">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1590944916715" />
+    <state x="624" y="177" key="AndroidProcessChooserDialog" timestamp="1590944918916">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="624" y="177" key="AndroidProcessChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1590944918916" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1590945013440">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590945013440" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1590944936450">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590944936450" />
+    <state x="100" y="100" width="1336" height="624" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1590944938613">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="100" y="100" width="1336" height="624" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1536.824@0.0.1536.824" timestamp="1590944938613" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1590944736950">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590944736950" />
+  </component>
+</project>
